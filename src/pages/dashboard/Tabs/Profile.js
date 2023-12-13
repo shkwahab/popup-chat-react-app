@@ -106,7 +106,7 @@ function Profile(props) {
               >
                 <div>
                   <p className="text-muted mb-1">{t("Name")}</p>
-                  <h5 className="font-size-14">{t("Patricia Smith")}</h5>
+                  <h5 className="font-size-14">{t("Popup Srl")}</h5>
                 </div>
 
                 <div className="mt-4">
